@@ -40,7 +40,7 @@ says there is a training document `0001` in `train/` with categories `C1` `C2` `
 ```
 
 # How to Run
-The main entry is in `src/BiasedGPU.java`. Please specify some paths and the category number before running the code:
+The main entry is in `src/main/BiasedGPU.java`. Please specify some paths and the category number before running the code:
 
 - `catsFilePath`: the path of the categories file.
 - `dataRootPath`: the root directory of the dataset.
