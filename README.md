@@ -1,5 +1,5 @@
 # SMTM
-This is the java implementation of paper [Multi-label Dataless Text Classification with Topic Modeling](https://arxiv.org/abs/1711.01563)
+This is the java implementation of paper [Multi-label Dataless Text Classification with Topic Modeling](https://arxiv.org/abs/1711.01563), Daochen Zha, Chenliang Li
 # Requirements
 - Java 1.8
 - Java Libraries (download `lib.zip`)
